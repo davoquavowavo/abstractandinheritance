@@ -1,6 +1,8 @@
 abstract class Animal {
     String name;
 
+    String testtilgit;
+
     int nrOfLegs;
 
     boolean isMammal;
